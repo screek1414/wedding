@@ -81,7 +81,6 @@
 </template>
 
 <script>
-    import Inputmask from 'inputmask'
     export default {
         name: "MainPageComponent",
         data() {
