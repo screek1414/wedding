@@ -165,8 +165,8 @@
         position: absolute;
         top: 30%;
         left: 50%;
-        width: 350px;
-        height: 500px;
+        width: 300px;
+        height: 450px;
         background-size: cover;
         background-position: center;
         box-shadow: 0 0 20px #1b1e21;
@@ -189,13 +189,13 @@
         position: absolute;
         top: -70%;
         left: -20%;
-        font-size: 4.5em;
+        font-size: 4em;
         font-style: italic;
         font-family: 'Pacifico', '', sans-serif;
 
     }
 
     .padding {
-        margin-left: 450px;
+        margin-left: 350px;
     }
 </style>
