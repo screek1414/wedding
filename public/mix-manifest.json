@@ -2,7 +2,5 @@
     "/js/app.js": "/js/app.js",
     "/css/app.css": "/css/app.css",
     "/CourseFormTable.js": "/CourseFormTable.js",
-    "/CoursesFormEdit.js": "/CoursesFormEdit.js",
-    "/vendors~CourseFormTable~CoursesFormEdit.js": "/vendors~CourseFormTable~CoursesFormEdit.js",
-    "/vendors~CourseFormTable.js": "/vendors~CourseFormTable.js"
+    "/CoursesFormEdit.js": "/CoursesFormEdit.js"
 }
