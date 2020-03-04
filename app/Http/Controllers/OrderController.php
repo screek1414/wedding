@@ -49,8 +49,10 @@ class OrderController extends Controller
            'email' => 'required|email',
         ]);
 
-        Order::create($request->all());
-        return response(['message' => 'Success']);
+        Order::create($request
+            ->all());
+        return response(['message'
+        => 'Success']);
     }
 
     /**
@@ -61,7 +63,8 @@ class OrderController extends Controller
      */
     public function show(Request $request)
     {
-        return response()->json(['tableData' => Order::get()->toArray()]);
+        return response()->json(['tableData' => Order::get()
+            ->toArray()]);
     }
 
     /**
