@@ -12,8 +12,8 @@
                 <el-alert
                     v-if='error'
                     title="Неправильно введены данные"
-                    type="error"
-                    effect="dark"
+                     type="error"
+                          effect="dark"
                     :closable="false"
                 ></el-alert>
                 <el-alert
